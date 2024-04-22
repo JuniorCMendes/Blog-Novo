@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 2%;
     margin-bottom: 2%;
     text-align: center;
@@ -25,21 +25,10 @@ h1 {
     font-weight: bolder;
 }
 
-.titulo1 {
-    font-size: 20px;
-    color: black;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    text-align: center;
-    font-weight: bolder;
-    border: 1px solid black;
-    border-radius: 15px;
-    background-color:  rgb(174, 243, 220);
-}
-
 section > p {
     text-indent: 30px;
     margin-top: 10px;
+    font-size: 18px;
 }
 
 div#video1 {
