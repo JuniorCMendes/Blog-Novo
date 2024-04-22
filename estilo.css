@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 22px;
     margin-top: 2%;
     margin-bottom: 2%;
     text-align: center;
@@ -59,7 +59,7 @@ div#video1 > video {
 
 footer {
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     font-style: normal;
     font-weight: bold;
     font-style: italic;
@@ -68,27 +68,27 @@ footer {
 .insta > a > img {
     margin-bottom: -6px;
     margin-left: -15px;
-    width: 25px;
+    width: 22px;
     height: 20px;
 }
 
 .git > a > img {
     margin-bottom: -6px;
     margin-left: -30px;
-    width: 25px;
+    width: 22px;
     height: 20px;
 }
 
 .iatb > a > img {
     margin-bottom: -6px;
     margin-left: -30px;
-    width: 25px;
-    height: 22px;
+    width: 22px;
+    height: 20px;
 }
 
 .radio > a > img {
-    margin-bottom: -13px;
+    margin-bottom: -6px;
     margin-left: -27px;
-    width: 25px;
-    height: 35px;
+    width: 22px;
+    height: 20px;
 }
